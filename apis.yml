@@ -1,0 +1,87 @@
+aid: signify-sports
+name: Signify Group
+description: >-
+  Signify Group is a London, United Kingdom-based ethical data science firm
+  founded in 2017 by co-founder and CEO Jonathan Hirshler, applying machine
+  learning, natural language understanding, and open-source intelligence
+  (OSINT) to social and digital media data. Its flagship service, Threat
+  Matrix, is widely regarded as the leading platform for detecting,
+  analysing, evidencing, and actioning online abuse and fixated threats
+  directed at athletes, clubs, leagues, player unions, federations, brands,
+  and other public figures. Threat Matrix scans incoming public messages
+  across X (Twitter), Instagram, Facebook, and TikTok in 39+ languages,
+  uses "augmented intelligence" (AI speed combined with trained human
+  analyst nuance) to triage racist, sexist, homophobic, anti-semitic,
+  islamophobic, gambling-driven, and personally targeted abuse, and
+  produces evidence-grade reports with network mapping that can be used
+  by platforms, police, sponsors, and protection teams. Customers and
+  partners include the Professional Footballers' Association (PFA),
+  Kick It Out, the International Tennis Federation (ITF) and WTA Tour
+  covering c.8,300 players, the International Ski and Snowboard Federation
+  (FIS) protecting 1,000+ athletes and officials, the Badminton World
+  Federation (BWF), the NCAA, and Japan's 2026 World Baseball Classic
+  squad. Signify also operates ShareScore (media coverage and social
+  buzz analytics), Sports Insights (fan engagement and athlete insight
+  analytics), and Online Forensics (brand reputation, OSINT
+  investigations, and risk assurance). Signify is a private services
+  firm with no public developer API, no public SDKs, and no public
+  GitHub organization; engagement is via direct sales and managed
+  service contracts with rights-holders, leagues, federations, and
+  enterprise clients.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Sports
+  - Online Abuse
+  - Threat Intelligence
+  - Content Moderation
+  - Athlete Protection
+  - Trust And Safety
+  - OSINT
+  - Open Source Intelligence
+  - Social Media Monitoring
+  - Hate Speech Detection
+  - Augmented Intelligence
+  - Natural Language Understanding
+  - Brand Protection
+  - Risk Management
+  - Data Science
+url: https://raw.githubusercontent.com/api-evangelist/signify-sports/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.signify.ai
+  - type: About
+    url: https://www.signify.ai/about
+  - type: ThreatMatrix
+    url: https://www.signify.ai/threatmatrix
+  - type: Services
+    url: https://www.signify.ai/services
+  - type: OnlineForensics
+    url: https://www.signify.ai/online-forensics
+  - type: Partners
+    url: https://www.signify.ai/partners
+  - type: Blog
+    url: https://www.signify.ai/blog-feed
+  - type: News
+    url: https://www.signify.ai/news
+  - type: Careers
+    url: https://www.signify.ai/work-with-us
+  - type: Contact
+    url: https://www.signify.ai/contact-us
+  - type: Twitter
+    url: https://twitter.com/signifygroup
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/signifygroup
+  - type: Facebook
+    url: https://www.facebook.com/signifygroup
+  - type: CompaniesHouse
+    url: https://find-and-update.company-information.service.gov.uk/company/10814854
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
